@@ -1,0 +1,27 @@
+.courses {
+  background: #f8faff;
+}
+
+.section-title {
+  color: #4361ee;
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.section-title + h2 span {
+  color: #4361ee;
+}
+
+.course-card {
+  transition: 0.3s;
+}
+
+.course-card:hover {
+  transform: translateY(-8px);
+}
+
+.course-card img {
+  height: 210px;
+  object-fit: cover;
+}

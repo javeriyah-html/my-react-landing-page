@@ -1,0 +1,25 @@
+.navbar-brand {
+  color: #172554 !important;
+}
+
+.navbar-brand span {
+  color: #4361ee;
+}
+
+.nav-link:hover {
+  color: #4361ee !important;
+}
+
+.login-btn {
+  color: #4361ee;
+}
+
+.signup-btn {
+  background: #4361ee;
+  color: white;
+}
+
+.signup-btn:hover {
+  background: #3049c7;
+  color: white;
+}

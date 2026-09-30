@@ -1,0 +1,27 @@
+.testimonials {
+  background: #f8faff;
+}
+
+.testimonials h2 span {
+  color: #4361ee;
+}
+
+.quote {
+  color: #4361ee;
+  font-size: 45px;
+}
+
+.testimonial-card {
+  transition: 0.3s;
+}
+
+.testimonial-card:hover {
+  transform: translateY(-5px);
+}
+
+.student-img {
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+  border-radius: 50%;
+}

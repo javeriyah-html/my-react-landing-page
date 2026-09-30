@@ -1,0 +1,20 @@
+.footer {
+  background: #111827;
+  color: white;
+}
+
+.footer h3 span {
+  color: #6c83ff;
+}
+
+.footer a {
+  display: block;
+  color: #9ca3af;
+  text-decoration: none;
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+
+.footer a:hover {
+  color: #6c83ff;
+}
